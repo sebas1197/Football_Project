@@ -30,7 +30,7 @@ _Privado solo del cliente_
 * [Netbeans](https://netbeans.apache.org/download/index.html) - IDE
 
 ## Cliente 🎁
-_[Universidad de las Fuerzas Armadas 'ESPE'.](https://www.espe.edu.ec/)_
+_[Academia De Fútbol Con Propósito](https://www.facebook.com/academiadefutbolconproposito)_
 
 ## Autores ✒️
 
